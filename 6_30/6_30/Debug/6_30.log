@@ -1,0 +1,10 @@
+﻿  Main.c
+C:\Users\micha\source\repos\6_30\6_30\Main.c(36,9): error C2065: "i": nichtdeklarierter Bezeichner
+C:\Users\micha\source\repos\6_30\6_30\Main.c(36,16): error C2065: "i": nichtdeklarierter Bezeichner
+C:\Users\micha\source\repos\6_30\6_30\Main.c(36,31): error C2065: "i": nichtdeklarierter Bezeichner
+C:\Users\micha\source\repos\6_30\6_30\Main.c(36,33): error C2143: Syntaxfehler: Es fehlt ";" vor ")"
+C:\Users\micha\source\repos\6_30\6_30\Main.c(39,2): error C2143: Syntaxfehler: Es fehlt ";" vor "}"
+C:\Users\micha\source\repos\6_30\6_30\Main.c(41,1): error C2143: Syntaxfehler: Es fehlt ";" vor "}"
+C:\Users\micha\source\repos\6_30\6_30\Main.c(53,8): warning C4477: "scanf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "double" auf.
+C:\Users\micha\source\repos\6_30\6_30\Main.c(54,8): warning C4477: "scanf": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "int" auf.
+C:\Users\micha\source\repos\6_30\6_30\Main.c(58,9): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "double (__cdecl *)(double,int)" auf.
